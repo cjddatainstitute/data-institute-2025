@@ -202,7 +202,7 @@ Thursday, July 17
 
 On Thursday, July 17, we'll meet in our usual workspace at 9:30 a.m. for some open work time and discussion. Around 12:30 p.m., we'll break for lunch, before everyone explores Atlanta. 
 
-Shameless plug: [The High Museum’s Dataverse exhibit]([url](https://high.org/exhibition/ryoji-ikeda/)) is currently underway!
+Shameless plug: [The High Museum’s Dataverse exhibit](https://high.org/exhibition/ryoji-ikeda/) is currently underway!
 Admission is free on the [second Sunday](https://high.org/event-category/for-families-and-kids/ups-second-sundays/) and [third Wednesday](https://high.org/event-category/free-admission/#:~:text=Free%20Admission%20Events,UPS%20Second%20Sunday) of the month.
 
 ## Day 10
