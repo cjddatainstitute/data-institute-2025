@@ -187,17 +187,19 @@ We'll do the first two together, and you'll do the rest on your own.
 ## Day 8
 Wednesday, July 16
 
-### Web Scraping, Continued
+### Web Scraping with Python
 
-**In-Class Demos**
-- Even more web scraping!
+**Morning session**
+<ul>
+  <li>Discussion: How and why do reporters and news outlets use programming?</li>
+  <li>Goals for the day and intro to jargon</li>
+  <li>Editing and running code in [Github Code Spaces](https://github.com/features/codespaces)</li>
+</ul>
 
-**Homework**
-
-* **Continue thinking about your presentation** - Some starter thoughts:
-	* General: What did you learn? What can you do now that you could not do 2 weeks ago? What were the biggest challenges/setbacks/frustrations you faced? The biggest surprises/succeses/most awesome things you accomplished?
-	* What would you like to present? a portfolio, a dataset you analyzed, a data visualization you created? What are you proud of? What are the next steps you want to take? What are your ultimate goals for your work with data, design and/or code?
- 		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
+**Afternoon session**
+<ul>
+  <li>Scrape an actual website with <a href="https://palewi.re/docs/first-web-scraper/">First Web Scraper</a>.</li>
+</ul>
 
 ## Day 9
 Thursday, July 17
