@@ -77,8 +77,13 @@ Wednesday, July 9
 Thursday, July 10
 
 ### Visualizing Data, Charts and Maps
+Morning session
+
+Discussion: <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/7f4bc7364fb660f83c3b7f7e4b776d77cb3a9e78/assets/why_to_visualize_data.pdf">Why to visualize data</a>
 
 <a href="https://docs.google.com/presentation/d/17euyzEe1WQMfu061vZhZg-OopQG0pdB2WgQAhry1v9Y/edit"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2024/blob/main/assets/day-4-thumbnail.png"></a>
+
+Afternoon session
 
 Intro to visualizing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
