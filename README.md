@@ -74,6 +74,8 @@ Wednesday, July 9
 <a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-analysis-grab-bag.png"></a>
 
+<a href="https://wmata.com/about/transit-police/upload/Blotter-June-17-2024.pdf">Initial Tabula exercise: Police blotter</a>
+
 <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/assets/hinesville-ga-fire-hydrant-list-12-19-2023.pdf">Extra Tabula exercise: Extract fire hydrant locations</a>
 
 ## Day 4
