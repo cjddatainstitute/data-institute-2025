@@ -62,6 +62,7 @@ Monday, July 7
 Tuesday, July 8
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/data-integrity-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-integrity.png"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/open-refine.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/analysis-one-var-25.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
