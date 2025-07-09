@@ -72,6 +72,7 @@ Tuesday, July 8
 Wednesday, July 9
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
+<a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">AI for Data Extraction</a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-analysis-grab-bag.png"></a>
 
 <a href="https://wmata.com/about/transit-police/upload/Blotter-June-17-2024.pdf">Initial Tabula exercise: Police blotter</a>
