@@ -97,7 +97,8 @@ Intro to visualizing data
 - [Files for creating your first map with Tableau](https://github.com/brionesb1116/tableau-workshop)
 
 [Create a map in Tableau!](https://public.tableau.com/app/discover) 
-Use these spreadsheets
+- Try making a map related to the World Happiness report - [Download the dataset.](https://github.com/cjddatainstitute/data-institute-2025/blob/main/assets/dataset_GAcounties2020_ver3%20(1).csv)
+- Map out Georgia's election results by county - [Download the dataset](https://github.com/cjddatainstitute/data-institute-2025/blob/main/assets/dataset_world-happiness-report-2021%20(1).csv).
 
 ## Day 5
 Friday, July 11
