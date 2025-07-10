@@ -96,6 +96,9 @@ Intro to visualizing data
 	- [Download aquifer use data for creating your first chart](https://github.com/cjddatainstitute/data-institute-2025/blob/1b7e96c5b035687dc2c0c6308a597e075e6e5854/assets/Georgia%20aquifer%20withdrawals.xlsx)
 - [Files for creating your first map with Tableau](https://github.com/brionesb1116/tableau-workshop)
 
+[Create a map in Tableau!]((https://public.tableau.com/app/discover)) 
+Use these spreadsheets
+
 ## Day 5
 Friday, July 11
 
