@@ -94,9 +94,7 @@ Afternoon session
 Intro to visualizing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
 	- [Download aquifer use data for creating your first chart](https://github.com/cjddatainstitute/data-institute-2025/blob/1b7e96c5b035687dc2c0c6308a597e075e6e5854/assets/Georgia%20aquifer%20withdrawals.xlsx)
-- [Creating your first map](https://academy.datawrapper.de/article/268-how-to-create-your-first-choropleth-map)
-  - [Florida county unemployment](https://docs.google.com/spreadsheets/d/1m2CevE363ZqqYHSBpB8nYeKReX52TdVkJ_eXZCTG_7k/edit#gid=266177519)
-- [More resources, reading and inspiration](https://docs.google.com/document/d/1MNRiSy0wQapCfu4PjSlvRobXIR4taB47gtr5v2g8uBo/edit?usp=sharing)
+- [Files for creating your first map with Tableau](https://github.com/brionesb1116/tableau-workshop)
 
 ## Day 5
 Friday, July 11
