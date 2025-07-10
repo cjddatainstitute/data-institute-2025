@@ -94,11 +94,9 @@ Afternoon session
 Intro to visualizing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
 	- [Download aquifer use data for creating your first chart](https://github.com/cjddatainstitute/data-institute-2025/blob/1b7e96c5b035687dc2c0c6308a597e075e6e5854/assets/Georgia%20aquifer%20withdrawals.xlsx)
-- [Files for creating your first map with Tableau](https://github.com/brionesb1116/tableau-workshop)
 
 [Create a map in Tableau!](https://public.tableau.com/app/discover) 
-- Try making a map related to the World Happiness report - [Download the dataset.](https://github.com/cjddatainstitute/data-institute-2025/blob/main/assets/dataset_GAcounties2020_ver3%20(1).csv)
-- Map out Georgia's election results by county - [Download the dataset](https://github.com/cjddatainstitute/data-institute-2025/blob/main/assets/dataset_world-happiness-report-2021%20(1).csv).
+- [Files for creating your first map with Tableau](https://github.com/brionesb1116/tableau-workshop)
 
 ## Day 5
 Friday, July 11
