@@ -203,14 +203,21 @@ Wednesday, July 16
 
 **Morning session**
 <ul>
-  <li>Discussion: How and why do reporters and news outlets use programming?</li>
+  <li>Discussion: How and why do reporters and news outlets use programming? Why not use no-coding tools?</li>
   <li><a href="https://github.com/cjddatainstitute/data-institute-2025/blob/a4069941701151ec0dc3a446411ffac2b2661c7a/python_files/goals_and_jargon.md">Goals for the day and intro to jargon</a></li>
   <li>Editing and running code in <a href="https://github.com/features/codespaces">Github Code Spaces</a></li>
 </ul>
 
 **Afternoon session**
 <ul>
-  <li>Scrape an actual website with <a href="https://palewi.re/docs/first-web-scraper/">First Web Scraper</a>.</li>
+  <li>Scrape a website and <a href="https://github.com/cjddatainstitute/data-institute-2025/tree/main/python_files">save the data to a .csv</a>
+  
+</ul>
+
+***Bonus / on your own / discusssion***
+<ul>
+	<li>Set up and run Palewire's <a href="https://palewi.re/docs/first-web-scraper/">First Web Scraper</a>. You can set this up on your own computer instead of in the cloud.</li>
+	<li>Some agencies <i>want</i> to share data with you. Look up how to access an API with Python and grab <a href="https://enfo.gaepd.org/api-docs/index.html">Georgia EPD Enforcement Orders</a></li>
 </ul>
 
 ## Day 9
