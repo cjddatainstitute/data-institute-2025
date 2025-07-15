@@ -205,7 +205,7 @@ Wednesday, July 16
 <ul>
   <li>Discussion: How and why do reporters and news outlets use programming? Why not use no-coding tools?</li>
   <li><a href="https://github.com/cjddatainstitute/data-institute-2025/blob/a4069941701151ec0dc3a446411ffac2b2661c7a/python_files/goals_and_jargon.md">Goals for the day and intro to jargon</a></li>
-  <li>Editing and running code in <a href="https://github.com/features/codespaces">Github Code Spaces</a></li>
+  <li>Editing and running Beyoncé-related code in <a href="https://github.com/features/codespaces">Github Code Spaces</a></li>
 </ul>
 
 **Afternoon session**
