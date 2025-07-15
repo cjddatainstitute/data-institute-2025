@@ -97,6 +97,10 @@ print(response.status_code)
 
 ##################
 # GREAT, now you have scraped text and links from <td> elements 
+# A no-coding tool could have done that though.
+# 
+# But custom scrapers can do more customized jobs, on any schedule you like.  You can run any number of them
+# And on your own computer, it will be free too. 
 # 
 # For more practice, say you cover Fulton County
 # And you want to print a message to the terminal every time a Fulton entry appears.
