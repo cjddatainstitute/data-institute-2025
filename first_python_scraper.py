@@ -95,14 +95,15 @@ writer = csv.writer(outfile)
 for row in output:
     writer.writerow(row)
 
-# for row in rows[0:10]:
-#     list_of_cells = []
-#     for cell in row.find_all('td'):
-#         try:
-#             link = cell.find('a')
-#             list_of_cells.append(link['href'])
-#         except:
-#             list_of_cells.append(cell.text)
-#         # text = cell.text
-#         # list_of_cells.append(text)
-#     print(list_of_cells)
+##################
+# GREAT, now you have scraped text and links from <td> elements 
+# 
+# For more practice, say you cover Fulton County
+# And you want to print a message to the terminal every time a Fulton entry appears.
+# What do you do?
+# 
+# 
+# For yet more practice, say you cover Fulton and Bulloch counties
+# Create an output file that ONLY includes rows from Fulton or Bulloch County
+####################
+
