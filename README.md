@@ -183,9 +183,8 @@ Tuesday, July 15
 
 <a href="https://drive.google.com/file/d/1jT0BgpGqNszvyx4CNFefZYaixvs1Jidl/view?usp=sharing">
 <img width="500" alt="Rich_Fundamentals_WebScraping_DI25" src="https://github.com/user-attachments/assets/31f82b8e-3c8c-446a-bddb-b791a2cda109" /></a>
-
-  
-
+<li>Chrome plugin: <a href="https://instant-data-scraper.en.softonic.com/chrome/extension">Instant Data Scraper</li>
+<li><a href="https://www.parsehub.com/">Parsehub</a></li>
 </ul>
 
 
@@ -216,6 +215,9 @@ Wednesday, July 16
 **Afternoon session**
 
 <a href="https://github.com/cjddatainstitute/data-institute-2025/tree/main/real-estate-gentrification-analysis-main">Data analysis with Python notebooks</a>
+
+***Bonus / on your own***
+<a href="https://palewi.re/docs/first-python-notebook/index.html">First Python Notebook</a>
 
 ## Day 9
 Thursday, July 17
