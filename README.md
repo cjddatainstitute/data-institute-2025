@@ -202,7 +202,6 @@ Wednesday, July 16
   <li>Editing and running Beyoncé-related code in <a href="https://github.com/features/codespaces">Github Code Spaces</a></li>
 </ul>
 
-**Afternoon session**
 <ul>
   <li>Scrape a website and <a href="https://github.com/cjddatainstitute/data-institute-2025/tree/main/python_files">save the data to a .csv</a>
   
@@ -213,6 +212,10 @@ Wednesday, July 16
 	<li>Set up and run Palewire's <a href="https://palewi.re/docs/first-web-scraper/">First Web Scraper</a>. You can set this up on your own computer instead of in the cloud.</li>
 	<li>Some agencies <i>want</i> to share data with you. Look up how to access an API with Python and grab <a href="https://enfo.gaepd.org/api-docs/index.html">Georgia EPD Enforcement Orders</a></li>
 </ul>
+
+**Afternoon session**
+
+<a href="https://github.com/cjddatainstitute/data-institute-2025/tree/main/real-estate-gentrification-analysis-main">Data analysis with Python notebooks</a>
 
 ## Day 9
 Thursday, July 17
