@@ -181,6 +181,11 @@ Tuesday, July 15
 <ul>
   <li>Rich's slides on <a href="https://drive.google.com/file/d/1jT0BgpGqNszvyx4CNFefZYaixvs1Jidl/view?usp=sharing">Introduction to Web Scraping</a></li>
 
+<a href="https://drive.google.com/file/d/1jT0BgpGqNszvyx4CNFefZYaixvs1Jidl/view?usp=sharing">
+<img width="500" alt="Rich_Fundamentals_WebScraping_DI25" src="https://github.com/user-attachments/assets/31f82b8e-3c8c-446a-bddb-b791a2cda109" /></a>
+
+  
+
 </ul>
 
 
