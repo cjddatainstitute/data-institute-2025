@@ -151,7 +151,7 @@ Monday, July 14
 ### Intro to Design
 
 Follow Michael's slides here:
-<a href="https://docs.google.com/presentation/d/13tTHJbmM2fg03qqMKX9vIg1evrBX_B9ZqMV3ms9dr9U/edit?slide=id.g357ba6e2f8e_1_35#slide=id.g357ba6e2f8e_1_35"><img width="895" height="504" alt="Michael_Grant_Intro_Design_DI25" src="https://github.com/user-attachments/assets/30dae103-fc78-4bd8-b61c-0f73a5058322" /></a>
+<a href="https://docs.google.com/presentation/d/13tTHJbmM2fg03qqMKX9vIg1evrBX_B9ZqMV3ms9dr9U/edit?slide=id.g357ba6e2f8e_1_35#slide=id.g357ba6e2f8e_1_35"><img width="504" alt="Michael_Grant_Intro_Design_DI25" src="https://github.com/user-attachments/assets/30dae103-fc78-4bd8-b61c-0f73a5058322" /></a>
 
 Check out Lena's resources here:
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
